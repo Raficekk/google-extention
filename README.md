@@ -1,0 +1,1 @@
+Glow Sidebar — tichý postranní panel pro rychlý vstup. Jedno textové pole, jedno tlačítko. Rozhraní zůstává v klidu, dokud nemáš co odeslat — jakmile začneš psát, tlačítko se rozsvítí a je jasné, kam kliknout. Žádné rozptylování, žádné zbytečné prvky — jen prostor napsat a odeslat.
